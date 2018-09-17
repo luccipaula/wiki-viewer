@@ -9,6 +9,13 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.home, .home:visited, .home:link, .home:active {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 .wrapper {
   display: grid;
   height: 100%;
