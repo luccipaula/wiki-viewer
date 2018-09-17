@@ -10,6 +10,7 @@ body {
 }
 
 .home, .home:visited, .home:link, .home:active {
+  color: #454545;
   text-decoration: none;
   position: absolute;
   top: 20px;
